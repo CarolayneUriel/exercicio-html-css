@@ -1,0 +1,54 @@
+* {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0 auto;
+    background-color: rgb(147, 238, 238);
+}
+
+.minibio {
+    margin-top: 60px;
+    text-align: center;
+    color: rgb(27, 27, 26);
+}
+
+.foto {
+    width: 300px;
+    height: auto;
+    border-radius: 30px;
+}
+
+.minibio h1 {
+    width: 280px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.minibio p {
+    width: 220px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-weight: 400px;
+}
+
+.redes-sociais {
+    width: 300px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.botao {
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 16px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(178, 127, 226);
+    width: 300px;
+    margin: 10px;
+    font-size: 16px;
+}
